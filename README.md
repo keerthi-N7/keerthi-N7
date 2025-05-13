@@ -1,6 +1,5 @@
  - Hi, this is keerthi
 - I'm intrested in coding and learning various skills 
-- I'm currently learning java 
 - Pronouns: she/her
 
 
